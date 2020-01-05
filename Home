@@ -1,13 +1,10 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR white] TV AO VIVO [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+<info></info>
 </channel>
 </channels>
 
@@ -15,14 +12,35 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR white] FILMES [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
-<info>
+<info></info>
+</channel>
+</channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+<channels>
+<channel>
+<name>[COLOR white] SERIES [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white] ANIMES [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/KJEGdCUB</externallink>
+<fanart></fanart>
+<info></info>
 </channel>
 </channels>
 
